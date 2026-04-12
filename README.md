@@ -30,8 +30,8 @@ Efficient contact management system
 📁 Folder: ContactBook
 
 🛠️ Technologies Used:
-Python (Core Python)
-PyCharm IDE
+Python (Core Python),
+PyCharm IDE,
 GUI (Graphical User Interface)
 
 Random & File Handling Modules
